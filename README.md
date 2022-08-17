@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg](https://user-images.githubusercontent.com/59968346/185227951-a44c5347-27d8-4591-bd77-5275c98f8635.gif">
 <h1 align="center">Hi 👋, I'm Shoaib Hossain</h1>
 <h3 align="center">Learning Data Science - Machine Learning - Deep Learning - NLP - CV</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shoaib8rj" target="blank"><img src="https://img.shields.io/twitter/follow/shoaib8rj?logo=twitter&style=for-the-badge" alt="shoaib8rj" /></a> </p>
 
-- 🔭 I’m currently studing on **Daffodil Internation University**
+- 🔭 I’m currently studying on **Daffodil Internation University**
 
 - 🌱 I’m currently learning **Tensorflow, Deep Learning, CV, NLP**
 
