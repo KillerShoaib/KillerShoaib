@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59968346/185227951-a44c5347-27d8-4591-bd77-5275c98f8635.gif">
+<img src="https://user-images.githubusercontent.com/59968346/185393156-51cc4673-0435-479f-8985-29dcef6609d9.gif">
 <h1 align="center">Hi 👋, I'm Shoaib Hossain</h1>
 <h3 align="center">Learning Data Science - Machine Learning - Deep Learning - NLP - CV</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
