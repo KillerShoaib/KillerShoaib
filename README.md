@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killershoaib&label=Profile%20views&color=0e75b6&style=flat" alt="killershoaib" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shoaib8rj" target="blank"><img src="https://img.shields.io/twitter/follow/shoaib8rj?logo=twitter&style=for-the-badge" alt="shoaib8rj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shoaib8rj" target="blank"><img src="https://img.shields.io/twitter/follow/KillerShoaib__?logo=twitter&style=for-the-badge" alt="KillerShoaib__" /></a> </p>
 
 - 🔭 I’m currently studying on **Daffodil Internation University**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shoaib8rj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoaib8rj" height="30" width="40" /></a>
+<a href="https://twitter.com/KillerShoaib__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoaib8rj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14061435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14061435" height="30" width="40" /></a>
 <a href="https://kaggle.com/killershoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="killershoaib" height="30" width="40" /></a>
 </p>
