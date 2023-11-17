@@ -1,5 +1,5 @@
 <h1 align="center">I'm Shoaib</h1>
-<h3 align="center">Learning ML | DL | CV | MLOPS</h3>
+<h3 align="center">Computer Vision | MLOps </h3>
 <p>Software engineering student, actively learning Machine Learning. Computer Vision & MLOPs. Implementing Object Tracking, Object Segmentation, Object Tracking using SOTA deep learning model such as YOLO, Mask RCNN, Unet, SAM etc etc. Computer vision content writter at medium.</p>
 
 ## 📝 My Blogs:
