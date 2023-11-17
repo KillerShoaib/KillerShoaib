@@ -17,5 +17,6 @@
 <p align="left">
 <a href="https://www.kaggle.com/killershoaib" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="KillerShoaib" height="30" width="40" /></a>
 <a href="https://twitter.com/killershoaib__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="killershoaib__" height="30" width="40" /></a>
-  <a href="https://https://www.linkedin.com/in/shoaibhossainkhandakar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="killershoaib__" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shoaibhossainkhandakar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="killershoaib__" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100085034082552" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="killershoaib__" height="30" width="40" /></a>
 </p>
