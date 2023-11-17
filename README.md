@@ -15,6 +15,7 @@
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://github.com/KillerShoaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="KillerShoaib" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/killershoaib" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="KillerShoaib" height="30" width="40" /></a>
 <a href="https://twitter.com/killershoaib__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="killershoaib__" height="30" width="40" /></a>
+  <a href="https://https://www.linkedin.com/in/shoaibhossainkhandakar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="killershoaib__" height="30" width="40" /></a>
 </p>
